@@ -53,3 +53,5 @@ Set the parameters
 Note: This demo uses Text Sentiment Analysis with Opinion Mining (Preview) and requires you to use specific endpoint. Refer the example below.
 
 https://<your_endpoint>.cognitiveservices.azure.com/text/analytics/v3.1/sentiment?opinionMining=true&model-version=2021-10-01-preview
+
+![Screenshot](./images/sample_output1.png)

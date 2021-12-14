@@ -1,6 +1,9 @@
 # Cognitive Services Demos
+
 Collection of Azure Cognitive Services Demos
+
 -------------------------------------------------------------------------
+
 ## About the Demo 1 (Cognitive Services Text API with Opinion Mining)
 
 Cognitive Services Text Analytics API with Opinion Mining (Preview) using Power BI Desktop.
@@ -55,4 +58,5 @@ Note: This demo uses Text Sentiment Analysis with Opinion Mining (Preview) and r
 https://<your_endpoint>.cognitiveservices.azure.com/text/analytics/v3.1/sentiment?opinionMining=true&model-version=2021-10-01-preview
 
 ![Screenshot](./images/sample_output1.png)
+
 -------------------------------------------------------------------------

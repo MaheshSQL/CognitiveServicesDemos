@@ -1,8 +1,7 @@
 # Cognitive Services Demos
-
 Collection of Azure Cognitive Services Demos
 
-## About the Demo 1 (Cognitive Services Text API with Opinion Mining)
+## About the Demo 1 - Cognitive Services Text API with Opinion Mining
 
 Cognitive Services Text Analytics API with Opinion Mining (Preview) using Power BI Desktop.
 
@@ -10,7 +9,7 @@ Useful Links:
 
 https://docs.microsoft.com/en-us/azure/cognitive-services/language-service/sentiment-opinion-mining/overview
 
-## Dataset Name
+## Dataset Details
 
 OpinRank
 

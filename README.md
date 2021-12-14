@@ -1,5 +1,4 @@
 # Cognitive Services Demos
--------------------------------------------------------------------------
 
 Collection of Azure Cognitive Services Demos
 

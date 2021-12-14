@@ -1,8 +1,7 @@
 # Cognitive Services Demos
+-------------------------------------------------------------------------
 
 Collection of Azure Cognitive Services Demos
-
--------------------------------------------------------------------------
 
 ## About the Demo 1 (Cognitive Services Text API with Opinion Mining)
 
